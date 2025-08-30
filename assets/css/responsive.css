@@ -1,0 +1,534 @@
+@media (max-width: 1499px) {
+	.about-home p {
+		font-size: 25px;
+		line-height: 41px;
+		width: 100%;
+	}
+
+	.about-four__content .kidearn-btn {
+		width: 19%;
+	}
+
+	.commit-banner::before {
+		width: 52%;
+	}
+
+	.sec-title__title {
+		font-size: 35px;
+		line-height: 40px;
+	}
+
+	.product-details__content h6 {
+		font-size: 16px;
+		line-height: 26px;
+		padding-top: 5px;
+		margin-bottom: 1px;
+	}
+
+	table.product-table {
+		margin: 10px 0px 18px 0px;
+	}
+
+	.seven-points .image {
+		padding: 36px 26px;
+	}
+
+	.page-header {
+		padding-top: 155px;
+		padding-bottom: 155px;
+	}
+
+	.product-table td {
+		padding: 5px 20px;
+	}
+
+	table.product-table::before {
+		width: 63%;
+	}
+
+	.about-home {
+		padding: 60px 0px;
+	}
+
+	table.product-table.rg td {
+		padding: 5px 13px;
+	}
+
+	.product-details__description li {
+		width: 95%;
+	}
+
+	.footer-widget__social a {
+		width: 35px;
+		height: 35px;
+		font-size: 21px;
+	}.footer-widget__social {
+    gap: 0px;
+}.footer-widget__social a >img {
+    max-width: 27px;
+}
+}
+
+@media (max-width: 1399px) {
+	a.float-whatsenquiry {
+		display: none;
+	}
+
+	.main-header__logo h6 {
+		font-size: 17px;
+		line-height: 27px;
+		margin-left: 18px;
+	}
+
+	.about-home {
+		padding: 50px 0px;
+	}
+
+	.program-three__item__image {
+		margin-right: -39px;
+		margin-left: -29px;
+	}
+
+	table.product-table.rg td {
+		padding: 5px 13px;
+	}
+
+	.program-three__item__image {
+		left: -4%;
+	}
+
+	    .footer-widget__social {
+        gap: 3px;
+    }
+
+	.footer-widget__social a {
+		width: 30px;
+		height: 30px;
+		font-size: 16px;
+	}
+
+	.page-header {
+		padding-top: 144px;
+		padding-bottom: 144px;
+	}
+}
+
+@media (max-width: 999px) {
+	.head-but .kidearn-btn {
+		display: none;
+	}
+
+	.about-home p {
+		font-size: 22px;
+		line-height: 40px;
+	}
+
+	.about-home {
+		padding: 50px 0px;
+	}
+
+	.parallax {
+		padding: 260px 0px 60px 0px;
+	}
+
+	.service-three a.kidearn-btn.serv {
+		width: 23%;
+	}
+
+	.whychoose-wrap {
+		padding-left: 0%;
+	}
+
+	.commit-banner::before {
+		width: 100%;
+		height: 29%;
+	}
+
+	.seven-heading {
+		padding: 20px 0px;
+	}
+
+	.footer-brands {
+		padding-top: 10px;
+	}
+
+	.container-large {
+		padding: 0px 5%;
+	}
+
+	.footer-widget {
+		margin-bottom: 23px;
+	}
+
+	.footer-widget p {
+		margin-top: 20px;
+	}
+
+	ul.foot-line {
+		padding-left: 0px;
+	}
+
+	.main-header__logo img {
+		max-width: 100px;
+		padding: 3px 0px;
+	}
+
+	.seven-points .image {
+		padding: 35px 80px;
+	}
+
+	.page-header {
+		padding-top: 108px;
+		padding-bottom: 108px;
+	}.main-header__inner {
+    padding: 10px 0;
+	}i.fa.fa-angle-down.one {
+    display: none;
+}.why-choosebtn a.kidearn-btn {
+    width: 48%;
+}.testimonial-three__carousel-nav {
+    display: none;
+}
+}
+
+@media (max-width: 799px) {
+	.main-footer-two__top {
+		padding-top: 60px;
+	}
+
+	a.float-whatsenquiry {
+		width: 36%;
+	}
+
+	.commit-banner::before {
+		width: 100%;
+		height: 37%;
+	}
+
+	.service-three a.kidearn-btn.serv {
+		width: 31%;
+	}
+
+	.about-four__content .kidearn-btn {
+		width: 26%;
+	}
+
+	ul.foot-line {
+		gap: 17px;
+	}
+
+	.funfact-one__count {
+		font-size: 39px;
+		line-height: 49px;
+	}
+
+	.sec-pad {
+		padding: 50px 0px;
+	}
+
+	.contact-info-one__title a {
+		font-size: 18px;
+	}
+
+	.main-header__inner {
+		padding: 6px 0;
+	}
+
+	table.product-table {
+		width: 100%;
+	}
+
+	.head-but {
+		padding-top: 0px;
+	}
+
+	ul.nav-headbut {
+		display: none;
+	}
+
+	.sec-title p {
+		width: 100%;
+	}
+
+	i.fa.fa-angle-down.one {
+		display: none;
+	}
+
+	.service-three__item {
+		padding: 25px 20px 25px;
+	}
+
+	.page-header {
+		padding-top: 85px;
+		padding-bottom: 83px;
+	}
+
+	.seven-points .image {
+		padding: 35px 45px;
+	}
+
+	.food-content::before {
+		width: 100%;
+		height: 57%;
+		bottom: 0;
+		top: auto;
+	}
+
+	.product-details__description.cooking {
+		padding-left: 0px;
+		padding-top: 20px;
+	}
+}
+
+@media (max-width: 599px) {
+	.btn-serv-inner a.float-whatsenquiry {
+    display: flex
+;
+    width: auto;
+}
+	.page-header__title {
+		font-size: 33px;
+	}
+
+	.about-home p {
+		font-size: 17px;
+		line-height: 30px;
+	}
+
+	.about-four__content .kidearn-btn {
+		width: 45%;
+	}
+
+	.about-home {
+		padding: 35px 0px;
+	}
+
+	.sec-title__title {
+		font-size: 28px;
+		line-height: 38px;
+	}
+
+	.program-three__item {
+		width: 100%;
+	}
+
+	.program-three__item__image {
+		bottom: -65px;
+	}
+
+	.sec-title p {
+		width: 100%;
+		padding-top: 20px;
+	}
+
+	.service-three__item {
+		max-width: 220px;
+		padding: 5px 10px 15px;
+	}
+
+	.service-three__item__title {
+		font-size: 18px;
+		line-height: 24px;
+	}
+
+	.service-three a.kidearn-btn.serv {
+		width: 50%;
+		margin-top: 8px;
+		font-size: 16px;
+		padding: 5px 20px;
+	}
+
+	.funfact-two__content .whychoose-head h4 {
+		font-size: 20px;
+		line-height: 40px;
+		padding-bottom: 7px;
+		margin-bottom: 12px;
+	}
+
+	.funfact-two__content .sec-title {
+		padding-bottom: 20px;
+	}
+
+	.funfact-two__content {
+		padding-bottom: 35px;
+	}
+
+	.why-choosebtn a.kidearn-btn {
+		margin-top: 0px;
+	}
+
+	.commit-banner::before {
+		display: none;
+	}
+
+	    .content-wrapper {
+        padding: 15px;
+        padding-top: 0px;
+    }
+
+	.sec-pad {
+		padding: 35px 0px;
+	}
+
+	.seven-points .image {
+		padding: 25px 20px;
+	}
+
+	.seven-heading {
+		padding: 36px 0px;
+	}
+
+	.socialsec .why-choosebtn a.kidearn-btn.serv {
+		width: 37%;
+	}
+
+	.socila-images img {
+		padding-bottom: 10px;
+	}
+
+	.sign-upcont p {
+		width: 100%;
+		font-size: 14px;
+		line-height: 23px;
+		padding-top: 13px;
+	}
+
+	ul.foot-line li img {
+		padding: 6px 0px;
+	}
+
+	ul.foot-line {
+		margin-bottom: 0px;
+	}
+
+	.funfact-one__icon img {
+		max-width: 55px;
+	}
+
+	.funfact-one {
+		padding: 40px 0 60px;
+	}
+
+	.funfact-one__count {
+		font-size: 30px;
+		line-height: 40px;
+	}
+
+	.about-text {
+		padding-top: 5px;
+		width: 100%;
+	}
+
+	.main-header__logo img {
+		max-width: 80px;
+		padding: 3px 0px;
+	}
+
+	.product-details__content h6 {
+		font-size: 16px;
+		line-height: 26px;
+		padding-top: 5px;
+	}
+
+	.kidearn-breadcrumb li {
+		font-size: 16px;
+	}
+
+	.desk {
+		display: none !important;
+	}
+
+	.mob {
+		display: block !important;
+	}
+
+	.page-header__bg.about {
+		background-image: url(../images/bg/bg-mob/Bbay.jpg);
+		background-position: left;
+	}
+
+	.page-header__bg.ragi {
+		background-image: url(../images/bg/bg-mob/Raagi.jpg);
+		background-position: left;
+	}
+
+	.page-header__bg.multigrain {
+		background-image: url(../images/bg/bg-mob/Multigrain.jpg);
+		background-position: left;
+	}
+
+	.page-header__bg.carrot {
+		background-image: url(../images/bg/bg-mob/Carrot.jpg);
+		background-position: left;
+	}
+
+	.page-header__bg.banana {
+		background-image: url(../images/bg/bg-mob/Banana.jpg);
+		background-position: left;
+	}
+
+	.page-header {
+		padding-top: 56px;
+		padding-bottom: 56px;
+	}
+
+	.main-header__logo {
+		justify-content: space-around;
+	}
+
+	.main-header__logo h6 {
+		padding-top: 0px;
+	}
+
+	.main-header__logo h6 {
+		margin-left: -20px;
+	}
+
+	ul.service-list {
+		margin-bottom: 0px;
+	}
+
+	.testimonial-three__carousel-nav {
+		display: none;
+	}
+
+	.aboutinner img {
+		max-width: 130px;
+	}
+
+	.program-three__item__image {
+		bottom: -10px;
+		left: 0%;
+		margin-right: 0px;
+		margin-left: 0px;
+		width: 100%;
+	}
+
+	.program-three__item__content {
+		padding: 35px 35px 0px 35px;
+		height: 648px;
+	}
+
+	.food-content::before {
+		height: 53%;
+	}
+
+	.benifits h6 {
+		padding-bottom: 0px;
+	}
+
+	.product-details__description.cooking {
+		padding-top: 30px;
+	}.why-img img {
+    display: none;
+}    .whychoose-wrap {
+        padding-top: 10px;
+    }
+.parallax {
+    background-image: url(../images/home/ParallaxMobile.jpg);
+}.product-details__description li {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+}

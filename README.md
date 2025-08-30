@@ -8,4 +8,4 @@ Our goal is to provide parents with trusted options that combine nutrition, tast
 https://dhanyaa-bot.github.io/arz
 
 ## Project Preview  
-https://github.com/Dhanyaa-bot/globaleduconnect/blob/main/images/preview.png
+https://github.com/Dhanyaa-bot/arz/blob/main/assets/images/preview.png
